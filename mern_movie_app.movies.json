@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "69aee8246d49c91689ad3841"
+  },
+  "name": "avangers",
+  "releaseDate": {
+    "$date": "2014-12-31T18:30:00.000Z"
+  },
+  "plot": "fae",
+  "posters": [],
+  "createdBy": {
+    "$oid": "69aee35032f8e6cfdbe7919a"
+  },
+  "cast": [],
+  "createdAt": {
+    "$date": "2026-03-09T15:32:52.410Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-09T15:32:52.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aef2d935bcb0ed391b85ad"
+  },
+  "name": "Inception",
+  "releaseDate": "2010-07-16",
+  "plot": "A skilled thief who steals secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+  "hero": "65e5c8d1a3f2b91c8b2f1111",
+  "heroine": "65e5c8d1a3f2b91c8b2f2222",
+  "director": "65e5c8d1a3f2b91c8b2f3333",
+  "genre": "Science Fiction",
+  "language": "English",
+  "posters": [
+    "https://example.com/posters/inception1.jpg",
+    "https://example.com/posters/inception2.jpg"
+  ],
+  "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+  "createdBy": "65e5c8d1a3f2b91c8b2f4444",
+  "cast": [
+    "65e5c8d1a3f2b91c8b2f1111",
+    "65e5c8d1a3f2b91c8b2f2222",
+    "65e5c8d1a3f2b91c8b2f5555"
+  ]
+}]

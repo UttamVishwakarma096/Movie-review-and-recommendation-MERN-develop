@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "69aee35032f8e6cfdbe7919a"
+  },
+  "name": "uttam",
+  "email": "uttam123@gmail.com",
+  "password": "$2a$10$ddrbC/sNVrmPiMOzl2cULOZ8.Ror0kAF9lCApcWhdC4nrd2sJ7kFq",
+  "isAdmin": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-03-09T15:12:16.571Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-09T15:12:16.571Z"
+  },
+  "__v": 0
+}]
