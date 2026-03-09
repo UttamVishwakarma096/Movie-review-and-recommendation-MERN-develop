@@ -67,9 +67,9 @@ Before running the application, ensure you have the following installed:
    PORT=3001
    MONGODB_URI=mongodb://localhost/mern_movie_app
    SECRET_KEY=yoursecretkey
-   cloudinary_cloud_name= '' 
+   cloudinary_cloud_name= ''
    cloudinary_api_key= ''
-   cloudinary_api_secret='' 
+   cloudinary_api_secret=''
    ```
 
 2. Adjust the MongoDB URI and secret key according to your setup.
@@ -110,9 +110,3 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 - This project was inspired by Movie World.
-
-## Contact
-
-- Rahul Shaw
-- Email : rahul.shaw2017@gmail.com
-- GitHub : https://github.com/RahulShawDevReact/Movie-review-and-recommendation-MERN
